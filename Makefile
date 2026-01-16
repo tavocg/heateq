@@ -50,6 +50,7 @@ clean-all: clean
 	rm -rf \
 		public/ \
 		resources/ \
+		go.mod go.sum \
 		.hugo_build.lock \
 		.deps-lock \
 		.public-lock
