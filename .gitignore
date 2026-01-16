@@ -1,8 +1,6 @@
 .hugo_build.lock
 public/
 resources/
-go.mod
-go.sum
 .deps-lock
 .public-lock
 heateq
